@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="ros_pa1" type="scantest.py" name="laserscan_values" output="screen">
+        
+    </node>
+</launch>
