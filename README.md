@@ -6,7 +6,7 @@ The objective of this assignment is to autonomously plan and execute a path for 
 The global plan is given by A*and the local planning is done using a modified Vector Field Histogram (VFH) 
 
 ## Given
-  1. map.txt - The map of the simulator world described as a 1D array with 0s and 1s
+  1. map.txt - The map of the simulator world described as a 1D array with 0s and 1s, and tells whether an obstacle is present with 1 and if ot is not present with 0.
   2. playground.pgm - Bitmap image used to describe the obstacles and free space for thestage simulator
   3. playground.world - Configuration file for the stage simulator that defines the robot and itsenvironment (using the playground.pgm file)
   
